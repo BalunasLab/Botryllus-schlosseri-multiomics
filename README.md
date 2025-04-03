@@ -4,7 +4,7 @@
 All the analyses done for this manuscript were done using open source R code.
 The description and how to use of each package can be found in their respective Githubs.
 
-##installation
+## Packages required
 library("qiime2R", lib.loc="/Library/Frameworks/R.framework/Versions/3.5/Resources/library")
 library("ggplot2", lib.loc="/Library/Frameworks/R.framework/Versions/3.5/Resources/library")
 library("RColorBrewer", lib.loc="/Library/Frameworks/R.framework/Versions/3.5/Resources/library")
